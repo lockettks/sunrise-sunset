@@ -1,0 +1,10 @@
+build
+.build_cache
+*.bundle.js
+.cache
+dist
+!dist/index.html
+.idea
+.eslintcache
+*.log
+node_modules
