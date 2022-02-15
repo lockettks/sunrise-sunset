@@ -1,7 +1,7 @@
 {
-  "name": "parcel-ts-eslint-prettier-starter",
+  "name": "sunrise-sunset",
   "version": "1.0.0",
-  "description": "Custom starter project",
+  "description": "Sunrise and Sunset Finder",
   "main": "src/index.js",
   "keywords": [],
   "author": "Kimberly Mathieu",

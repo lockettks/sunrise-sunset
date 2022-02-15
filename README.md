@@ -1,32 +1,18 @@
-# Kim Possible's react + ts + parcel starter project
+# Sunrise and Sunset Finder
 
-This is my custom app recipe.
 
 ## Building and running on localhost
 
 First install dependencies:
 
 ```sh
-npm install
+yarn install
 ```
 
-To run in hot module reloading mode:
+To run:
 
 ```sh
-npm start
+yarn start
 ```
 
-To create a production build:
-
-```sh
-npm run build-prod
-```
-
-## Running
-
-Open the file `dist/index.html` in your browser
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
-
+View the running app at http://localhost:1234/
