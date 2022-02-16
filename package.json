@@ -25,6 +25,7 @@
     "@parcel/transformer-typescript-tsc": "^2.0.0-alpha.3",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
+    "@types/styled-components": "^5.1.22",
     "babel-plugin-styled-components": "^1.12.0",
     "eslint": "^7.23.0",
     "eslint-config-airbnb-typescript-prettier": "^4.2.0",
